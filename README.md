@@ -27,6 +27,11 @@ Developed an interactive Job Portal Analytics Dashboard to analyze hiring trends
 
 The dashboard is deployed on Netlify and available for demonstration between **3:00 PM and 5:00 PM**.
 
+<img width="950" height="406" alt="Screenshot 2026-06-11 171023" src="https://github.com/user-attachments/assets/f78c66c1-cf73-41fb-81dd-c658584ec969" />
+
+
+
+
 ### Skills Demonstrated
 
 Data Analytics • Data Visualization • Tableau • Dashboard Development • Data Preprocessing • Business Intelligence • Deployment
